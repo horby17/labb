@@ -1,0 +1,3 @@
+/home/horby/CLionProjects/newlab/cmake-build-debug/CMakeFiles/newlab.dir
+/home/horby/CLionProjects/newlab/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/horby/CLionProjects/newlab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
